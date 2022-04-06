@@ -67,7 +67,7 @@ for i in range(mc_repeat):
 average_count=total_mc_count/mc_repeat 
 print('\n')
 print(average_count)
-##### coupen collector has a formoula as a theory answer : n(1/1 + 1/2 + 1/3 + 1/4 + ... +1/n)~ n*ln(n). So for large mc_repeat
+##### coupen collector has a formula as a theory answer : n(1/1 + 1/2 + 1/3 + 1/4 + ... +1/n)~ n*ln(n). So for large mc_repeat
 ##### the average_count will be near to n*ln(n)
 
 

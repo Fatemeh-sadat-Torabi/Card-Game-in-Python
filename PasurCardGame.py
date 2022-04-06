@@ -33,7 +33,7 @@ for i in range(len(deck)):
     deck[i]=deck[r]
     deck[r]=temp
 print(deck)
-##### How to give some cards randomly to gamers without repeat- using donald knuth shuffeling-:
+##### How to give some cards randomly to gamers without repeat- using donald knuth shuffling-:
 import sys
 m =6 # int(sys.argv[1])
 n =16# int(sys.argv[2])
